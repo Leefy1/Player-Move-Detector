@@ -3,7 +3,7 @@
   "id": "player-move-detector",
   "version": "1.1.0",
   "name": "Player Move Detector",
-  "description": "Detects player movement and displays markers above their heads",
+  "description": "Detects player movement and displays markers above their heads.",
   "authors": [
     "_Leefy"
   ],
@@ -11,7 +11,7 @@
     "homepage": "https://github.com/Leefy1/Player-Move-Detector",
     "sources": "https://github.com/Leefy1/Player-Move-Detector"
   },
-  "license": "CC-BY-ND-4.0",
+  "license": "CC-BY-ND 4.0",
   "icon": "assets/player-move-detector/textures/icon.png",
   "environment": "*",
   "entrypoints": {
