@@ -1,0 +1,19 @@
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Gradle
+.gradle/
+build/
+
+# Minecraft
+run/
+
+# Log files
+*.log
+
+# OS generated files
+Thumbs.db
+.DS_Store

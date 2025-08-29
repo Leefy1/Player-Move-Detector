@@ -1,0 +1,14 @@
+{
+  "key.player_move_detector.toggle": "Toggle Player Move Detector",
+  "category.player_move_detector": "Player Move Detector",
+  
+  "text.autoconfig.player_move_detector.title": "Player Move Detector Settings",
+  "text.autoconfig.player_move_detector.option.markerSize": "Marker Size",
+  "text.autoconfig.player_move_detector.option.markerSize.@Tooltip": "Size of the markers above players' heads (0-100%)",
+  "text.autoconfig.player_move_detector.option.markerHeight": "Marker Height",
+  "text.autoconfig.player_move_detector.option.markerHeight.@Tooltip": "Height offset of the markers above players' heads",
+  "text.autoconfig.player_move_detector.option.hideRedMarkers": "Hide Red Markers",
+  "text.autoconfig.player_move_detector.option.hideRedMarkers.@Tooltip": "Hide markers for players who have moved",
+  "text.autoconfig.player_move_detector.option.hideGreenMarkers": "Hide Green Markers",
+  "text.autoconfig.player_move_detector.option.hideGreenMarkers.@Tooltip": "Hide markers for players who haven't moved"
+}
